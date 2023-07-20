@@ -3,7 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="_2EJERCICIO5834324.MainPage">
 
-    <StackLayout>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
@@ -21,6 +20,6 @@
             <BoxView Color="Yellow" Grid.Row="1" Grid.Column="1"/>
 
         </Grid>
-    </StackLayout>
+
 
 </ContentPage>
